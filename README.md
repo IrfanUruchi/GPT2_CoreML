@@ -15,11 +15,14 @@ This repository contains a version of OpenAI’s GPT-2 language model converted 
 - **Format:** Core ML (`.mlmodel`)
 - **Usage:** Runs entirely offline on Apple devices, no data leaves the device.
 
+---
+
 ## License
 
 The original GPT-2 model is licensed under the [OpenAI Model License]([LICENSE]((https://github.com/openai/gpt-2/blob/master/LICENSE)).  
 **Do not use this model for illegal, harmful, or deceptive purposes, as outlined in the license.**
 
+---
 
 ## Attribution
 
@@ -27,3 +30,17 @@ The original GPT-2 model is licensed under the [OpenAI Model License]([LICENSE](
 - GPT-2 by OpenAI ([GitHub](https://github.com/openai/gpt-2))
 - Core ML conversion by Irfan
 
+---
+
+## Limitations and considerations
+
+- The model may generate biased or inappropriate content reflecting its training data.
+- Performance and output may differ slightly from the original GPT-2 due to conversion and optimization.
+- Intended for research, experimentation, and on-device applications on Apple platforms.
+- Not suitable for high-stakes or sensitive use cases without additional safeguards.
+
+---
+
+## Contribution and feedback
+
+Contributions, issues, and feature requests are welcome! Feel free to open a GitHub issue or pull request.
