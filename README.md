@@ -1,6 +1,6 @@
 # GPT-2 Core ML Model
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)]([https://github.com/IrfanUruchi/GPT2-CoreML](https://github.com/IrfanUruchi/GPT2_CoreML))
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/IrfanUruchi/GPT2_CoreML)
 [![Model Weights](https://img.shields.io/badge/🤗-Model_Weights-FFD21F?style=for-the-badge)](https://huggingface.co/Irfanuruchi/GPT2-CoreML)
 [![License](https://img.shields.io/badge/License-OpenAI_Model_License-blue.svg?style=for-the-badge)](https://github.com/openai/gpt-2/blob/master/LICENSE)
 
