@@ -11,7 +11,7 @@ This repository contains a version of OpenAI’s GPT-2 language model converted 
 
 ## License
 
-The original GPT-2 model is licensed under the [OpenAI Model License](LICENSE).  
+The original GPT-2 model is licensed under the [OpenAI Model License]([LICENSE](https://github.com/openai/gpt-2?tab=License-1-ov-file)).  
 **Do not use this model for illegal, harmful, or deceptive purposes, as outlined in the license.**
 
 
